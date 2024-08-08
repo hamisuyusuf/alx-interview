@@ -1,10 +1,6 @@
 #!/usr/bin/python3
-"""0-pascal_triangle"""
+
 def pascal_triangle(n):
-    """
-    returns a lists of integers
-    representing pascal triangle
-    """
     if n <= 0:
         return []
 
