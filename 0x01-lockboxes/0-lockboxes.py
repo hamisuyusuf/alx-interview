@@ -8,7 +8,7 @@ def canUnlockAll(boxes: List[List[int]]) -> bool:
     Args:
         boxes (List[List[int]]): A list of lists, where each inner list contains
         keys that can open other boxes.
-    
+
     Returns:
         bool: True if all boxes can be opened, False otherwise.
     """
