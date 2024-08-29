@@ -1,5 +1,7 @@
 #!/usr/bin/python3
+"""0-state.py"""
 import sys
+
 
 def print_stats(file_size, status_codes):
         """Print the accumulated metrics"""
